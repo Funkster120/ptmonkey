@@ -1,3 +1,3 @@
 <?php
-$output = shell_exec("/bin/bash -c");
+$output = shell_exec("/bin/bash -c('id')");
 ?>
